@@ -79,3 +79,12 @@ src/c/depcomp
 src/c/install-sh
 src/c/ltmain.sh
 src/c/missing
+
+# C#
+src/dotnet/generated
+src/dotnet/ZooKeeperNet/Generated/*.cs
+src/dotnet/ZooKeeperNet/_Reshaper
+src/dotnet/ZooKeeperNet/bin
+src/dotnet/ZooKeeperNet/obj
+src/dotnet/packages
+src/dotnet/.vs
